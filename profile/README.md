@@ -1,6 +1,9 @@
 # Valley Tutoring
 To enrich and develop the minds of students residing in the Bay Area through tutoring.
 
+## Need a Tutor?
+Apply to have a personal tutor teach a wide range of subjects for yourself or your child. We offer tutoring services in a variety of subjects, as well as standardized tests such as the SAT and ACT. [Sign up to be tutored!](https://docs.google.com/forms/d/1y_h3jXeopDbEI2JFmIIJLsjlJDujDFAofV6CdO3feK8/edit)
+
 ## Want to Teach?
 All of our tutors can receive volunteer hours for every tutoring session they lead. [Apply to become a tutor!](https://docs.google.com/forms/d/1RRQfpTTFV_q1XLPXon3cpu03DPZ939BE3lrWgrNN5T4/edit)
 
